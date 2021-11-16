@@ -1,3 +1,5 @@
 Step by step Tutorial to understand CI/CD pipelines ,Release activities, Docker, Code
 Repos, Project Boards, in Azure
 About this course
+
+This tutorial will bring your wish of Azure Devops learning to reality with Top class 6 hours training with real time examples.
